@@ -132,9 +132,7 @@ DELETE /bookings/{id}
 
 ---
 
-# Database ERD
 
-![ERD](./erd.png)
 
 ---
 
