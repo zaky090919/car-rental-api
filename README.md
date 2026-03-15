@@ -15,32 +15,6 @@ This project allows users to manage cars, customers, and bookings for a car rent
 
 ---
 
-# Project Structure
-
-```
-car-rental-api
-│
-├── database
-│   ├── schema.sql
-│   └── seed.sql
-│
-├── handlers
-│   ├── car_handler.go
-│   ├── customer_handler.go
-│   └── booking_handler.go
-│
-├── models
-│   ├── car.go
-│   ├── customer.go
-│   └── booking.go
-│
-├── docs
-│   └── erd.png
-│
-├── main.go
-├── go.mod
-└── .gitignore
-```
 
 ---
 
