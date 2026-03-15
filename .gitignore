@@ -1,0 +1,20 @@
+# environment variables
+.env
+
+# build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# logs
+*.log
+
+# Go build
+/bin/
+/dist/
+
+# IDE
+.vscode/
+.idea/

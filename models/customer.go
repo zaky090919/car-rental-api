@@ -1,0 +1,9 @@
+package models
+
+type Customer struct {
+	ID          int    `json:"id"`
+	Name        string `json:"name"`
+	NIK         string `json:"nik"`
+	PhoneNumber string `json:"phone_number"`
+	CreatedAt   string `json:"created_at"`
+}
